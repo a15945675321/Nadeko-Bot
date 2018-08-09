@@ -1,0 +1,2 @@
+# Nadeko-Bot
+bot
